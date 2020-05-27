@@ -1,0 +1,6 @@
+framework module MindBehind {
+  umbrella header "MindBehind.h"
+
+  export *
+  module * { export * }
+}
